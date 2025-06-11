@@ -1,0 +1,53 @@
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Virtual environment folders
+env/
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode & IDE settings
+.vscode/
+.idea/
+
+# MacOS-specific files
+.DS_Store
+
+# Logs & outputs
+*.log
+*.out
+*.bak
+
+# CSV & dataset files
+*.csv
+*.tsv
+*.xlsx
+
+# Database files (sqlite, etc.)
+*.db
+*.sqlite3
+*.sqlite
+
+# Model artifacts
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+
+# Requirements backup
+pip-selfcheck.json
+
+# Others
+*.env
+.env
+*.zip
+*.tar.gz
+*.egg-info/
