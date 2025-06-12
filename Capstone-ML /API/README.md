@@ -20,8 +20,8 @@ API ini dibuat sebagai bagian dari Capstone Project *CUANQ Financial Transaction
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/dickysurya1/CuanQ.git)
+cd CuanQ/Capstone-ML/API/
 ```
 
 ### Step 2: Install Dependencies
